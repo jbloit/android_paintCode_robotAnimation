@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="RobotView">
+        <attr name="armAngle" format="float"/>
+        <attr name="red" format="integer"/>
+        <attr name="exampleString" format="string" />
+    </declare-styleable>
+</resources>
